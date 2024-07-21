@@ -1,0 +1,41 @@
+body{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQELa87bHmxBnGUWCebqKDDhx2LPtyoP1BP1g&s');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.con{
+  margin: 20px;
+  padding: 20px;
+}
+
+h1{
+  color: rgb(74, 4, 73);
+  font-size: 5rem;
+}
+
+p{
+  color: #000;
+  font-style: italic;
+  font-size: 2rem;
+  font-weight: 500;
+  text-align: left;
+  padding-right: 50px;
+}
+
+.moments{
+  height: 2rem;
+  width: 5rem;
+  background-color: cadetblue;
+  border: #000;
+  border-radius: 20px;
+  font-size: 1rem;
+  font-style: italic;
+  font-weight: bold;
+
+}
+
+.moments:hover{
+  cursor: pointer;
+  background-color: #fff;
+}
